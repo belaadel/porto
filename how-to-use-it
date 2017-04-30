@@ -26,7 +26,7 @@ How can I modify the words/sentences in the translation?
 
 Inorder to modify the content of translation, you can use one of these:
 + Poedit software ( it's free: https://poedit.net/ ), it helps you to to modify the translation: Just open the .po file and start modifying the words, by saving Poedit will generate automatically the .mo file for you
-+ Codestyling Localization (it's free Wordpress plugin, ask any of your friends for it because the link is broken: https://wordpress.org/plugins/codestyling-localization/), by saving Poedit will generate automatically the .mo file for you
++ Codestyling Localization (it's a free Wordpress plugin, ask any of your friends for it because the link is broken: https://wordpress.org/plugins/codestyling-localization/), by saving "Codestyling Localization" will generate automatically the .mo file for you
 + Or any texte editor such as Blocknote (included) in Windows, Dreamwaver, Word, .... Unfortunately these software/shareware will not help you to generate the required .mo file once you update and save the .po file
 
 -----------------------------------------------------------------------------------------------------------------------------------
