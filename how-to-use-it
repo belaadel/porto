@@ -1,0 +1,33 @@
+WELCOME
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Hello,
+
+This is a free translation into Arabic of the related theme.
+
+You can use it, share it with your friends and even give a link to people so they can download it for free. Keep it free please.
+
+Mohammed BELAADEL
+www.belaadel.com
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+How to use it?
+--------------
+
+1 - Just download the files (ar.po & ar.mo)
+2 - Upload these TWO (2) files to the language directory in the theme folder
+3 - I also advise you to make a copy of the 2 files and rename theme into porto-ar.po and porto-ar.mo then upload the new files to the language directory of your Wordpress
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+How can I modify the words/sentences in the translation?
+--------------------------------------------------------
+
+Inorder to modify the content of translation, you can use one of these:
++ Poedit software ( it's free: https://poedit.net/ ), it helps you to to modify the translation: Just open the .po file and start modifying the words, by saving Poedit will generate automatically the .mo file for you
++ Codestyling Localization (it's free Wordpress plugin, ask any of your friends for it because the link is broken: https://wordpress.org/plugins/codestyling-localization/), by saving Poedit will generate automatically the .mo file for you
++ Or any texte editor such as Blocknote (included) in Windows, Dreamwaver, Word, .... Unfortunately these software/shareware will not help you to generate the required .mo file once you update and save the .po file
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
